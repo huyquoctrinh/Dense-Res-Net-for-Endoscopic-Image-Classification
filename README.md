@@ -9,7 +9,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
 pip install -r requirement.txt
 ```
-
+## Installation
+Download Kvasir dataset from https://datasets.simula.no/kvasir/
 ## Usage
 Make sure you fix the right directory of the dataset and then run 
 ``` bash
