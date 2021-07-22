@@ -1,0 +1,10 @@
+add data in this folder with following structure:
+data:
+    - train
+   |  - label 1: all train images of label 1
+   |  - label 2: all train images of label 2
+   |  ...
+    - val
+   |  - label 1: all train images of label 1
+   |  - label 2: all train images of label 2
+   |  ...
