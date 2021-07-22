@@ -1,6 +1,6 @@
-# This source code is implement from paper Dense-Res Net for Endoscopic Image Classification
+# Dense-Res Net for Endoscopic Image Classification
 
-Foobar is a Python library for dealing with word pluralization.
+This source code is implement from paper Dense-Res Net for Endoscopic Image Classification
 
 ## Installation
 
